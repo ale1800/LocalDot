@@ -1,6 +1,3 @@
-**LocalDot**  
-A drop-in replacement board for the Echo Dot 3rd Generation to bring it under your control via Home Assistant.  
-
 This is a retrofit project that lets you swap out the Echo Dot's original motherboard with a custom one that connects to Home Assistant. You keep everything that works — the original speaker, 4-mics array, LED ring, and buttons — and gain full local control without any Amazon servers involved.  
 
 **Current Status**  
