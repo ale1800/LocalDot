@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="1741" viewBox="0 0 1160 1741" role="img" aria-labelledby="title desc">
+  <title id="title">LocalDot FPC connector pinout</title>
+  <desc id="desc">Pin numbers 1 through 41, with signal names and concise descriptions. Alternating pale green and blue rows.</desc>
+  <rect width="1160" height="1741" fill="#ffffff"/>
+  <rect x="24" y="24" width="1112" height="50" rx="8" fill="#c3d7f1"/>
+  <g fill="#244064" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">
+    <text x="48" y="56">PIN</text><text x="120" y="56">SIGNAL</text><text x="320" y="56">DESCRIPTION / ELECTRICAL NOTE</text>
+  </g>
+  <rect x="24" y="74" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="100">1</text><text x="120" y="100">—</text><text x="320" y="100">—</text></g>
+  <rect x="24" y="113" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="139">2</text><text x="120" y="139">—</text><text x="320" y="139">—</text></g>
+  <rect x="24" y="152" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="178">3</text><text x="120" y="178">—</text><text x="320" y="178">—</text></g>
+  <rect x="24" y="191" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="217">4</text><text x="120" y="217">—</text><text x="320" y="217">—</text></g>
+  <rect x="24" y="230" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="256">5</text><text x="120" y="256">—</text><text x="320" y="256">—</text></g>
+  <rect x="24" y="269" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="295">6</text><text x="120" y="295">GND</text><text x="320" y="295">Ground</text></g>
+  <rect x="24" y="308" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="334">7</text><text x="120" y="334">—</text><text x="320" y="334">—</text></g>
+  <rect x="24" y="347" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="373">8</text><text x="120" y="373">GND</text><text x="320" y="373">Ground</text></g>
+  <rect x="24" y="386" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="412">9</text><text x="120" y="412">—</text><text x="320" y="412">—</text></g>
+  <rect x="24" y="425" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="451">10</text><text x="120" y="451">—</text><text x="320" y="451">—</text></g>
+  <rect x="24" y="464" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="490">11</text><text x="120" y="490">—</text><text x="320" y="490">—</text></g>
+  <rect x="24" y="503" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="529">12</text><text x="120" y="529">TLV RESET</text><text x="320" y="529">1 kΩ pull-up to 1.8 V on original PCB; drive low to reset.</text></g>
+  <rect x="24" y="542" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="568">13</text><text x="120" y="568">—</text><text x="320" y="568">—</text></g>
+  <rect x="24" y="581" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="607">14</text><text x="120" y="607">I²C SCL</text><text x="320" y="607">Clock; pull up to 1.8 V on the replacement board.</text></g>
+  <rect x="24" y="620" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="646">15</text><text x="120" y="646">—</text><text x="320" y="646">—</text></g>
+  <rect x="24" y="659" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="685">16</text><text x="120" y="685">I²C SDA</text><text x="320" y="685">Data; pull up to 1.8 V on the replacement board.</text></g>
+  <rect x="24" y="698" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="724">17</text><text x="120" y="724">—</text><text x="320" y="724">—</text></g>
+  <rect x="24" y="737" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="763">18</text><text x="120" y="763">—</text><text x="320" y="763">—</text></g>
+  <rect x="24" y="776" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="802">19</text><text x="120" y="802">—</text><text x="320" y="802">—</text></g>
+  <rect x="24" y="815" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="841">20</text><text x="120" y="841">LED SDB</text><text x="320" y="841">Original 10 kΩ pull-down; drive high to enable LED controller.</text></g>
+  <rect x="24" y="854" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="880">21</text><text x="120" y="880">TLV WCLK</text><text x="320" y="880">TLV microphone word clock.</text></g>
+  <rect x="24" y="893" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="919">22</text><text x="120" y="919">GND</text><text x="320" y="919">Ground</text></g>
+  <rect x="24" y="932" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="958">23</text><text x="120" y="958">TLV BCLK</text><text x="320" y="958">TLV microphone bit clock.</text></g>
+  <rect x="24" y="971" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="997">24</text><text x="120" y="997">GND</text><text x="320" y="997">Ground</text></g>
+  <rect x="24" y="1010" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1036">25</text><text x="120" y="1036">TLV DOUT</text><text x="320" y="1036">TLV microphone data output.</text></g>
+  <rect x="24" y="1049" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1075">26</text><text x="120" y="1075">—</text><text x="320" y="1075">—</text></g>
+  <rect x="24" y="1088" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1114">27</text><text x="120" y="1114">—</text><text x="320" y="1114">—</text></g>
+  <rect x="24" y="1127" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1153">28</text><text x="120" y="1153">Button signal</text><text x="320" y="1153">Original 1 kΩ series resistor; pull up to 1.8 V on replacement board.</text></g>
+  <rect x="24" y="1166" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1192">29</text><text x="120" y="1192">Button signal</text><text x="320" y="1192">Original 1 kΩ series resistor; pull up to 1.8 V on replacement board.</text></g>
+  <rect x="24" y="1205" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1231">30</text><text x="120" y="1231">Button signal</text><text x="320" y="1231">Original 1 kΩ series resistor; pull up to 1.8 V on replacement board.</text></g>
+  <rect x="24" y="1244" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1270">31</text><text x="120" y="1270">—</text><text x="320" y="1270">—</text></g>
+  <rect x="24" y="1283" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1309">32</text><text x="120" y="1309">GND</text><text x="320" y="1309">Ground</text></g>
+  <rect x="24" y="1322" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1348">33</text><text x="120" y="1348">GND</text><text x="320" y="1348">Ground</text></g>
+  <rect x="24" y="1361" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1387">34</text><text x="120" y="1387">+1.8 V</text><text x="320" y="1387">Digital TLV and I²C supply; I²C pull-ups are on replacement board.</text></g>
+  <rect x="24" y="1400" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1426">35</text><text x="120" y="1426">+5 V</text><text x="320" y="1426">Supply for LED controller and 12 LEDs.</text></g>
+  <rect x="24" y="1439" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1465">36</text><text x="120" y="1465">+5 V</text><text x="320" y="1465">Supply for LED controller and 12 LEDs.</text></g>
+  <rect x="24" y="1478" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1504">37</text><text x="120" y="1504">+3.3 V</text><text x="320" y="1504">TLV supply.</text></g>
+  <rect x="24" y="1517" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1543">38</text><text x="120" y="1543">—</text><text x="320" y="1543">—</text></g>
+  <rect x="24" y="1556" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1582">39</text><text x="120" y="1582">+3.3 V</text><text x="320" y="1582">TLV supply.</text></g>
+  <rect x="24" y="1595" width="1112" height="39" fill="#eaf1fa"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1621">40</text><text x="120" y="1621">GND</text><text x="320" y="1621">Ground</text></g>
+  <rect x="24" y="1634" width="1112" height="39" fill="#dce8f7"/>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1660">41</text><text x="120" y="1660">GND</text><text x="320" y="1660">Ground</text></g>
+  <path d="M104 74V1673 M304 74V1673" stroke="#d2dfef" stroke-width="1"/>
+  <text x="32" y="1717" fill="#506783" font-family="Arial, Helvetica, sans-serif" font-size="14">— = intentionally not documented in the source spreadsheet; do not assume NC.</text>
+</svg>
