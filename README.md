@@ -2,7 +2,7 @@
 
 LocalDot is an open-source replacement board for the 3rd-generation Echo Dot. It keeps the original enclosure, four-microphone array, speaker, buttons, and LED ring, while connecting the device to Home Assistant without requiring Amazon's servers.
 
-<p align="center"><img src="v2-assembled.jpg" alt="LocalDot revision 2.0 installed with the original speaker" width="440"></p>
+<p align="center"><img src="Images/v2-assembled.jpg" alt="LocalDot revision 2.0 installed with the original speaker" width="440"></p>
 
 *LocalDot revision 2.0 with the original speaker.*
 
@@ -19,7 +19,7 @@ An Echo Dot with working hardware can have a second life as a local voice assist
 
 ## Revision 2.0 photos
 
-<p align="center"><img src="v2-front.jpg" alt="Front of the LocalDot revision 2.0 PCB" width="340"> <img src="v2-back.jpg" alt="Back of the LocalDot revision 2.0 PCB" width="340"></p>
+<p align="center"><img src="Images/v2-front.jpg" alt="Front of the LocalDot revision 2.0 PCB" width="340"> <img src="Images/v2-back.jpg" alt="Back of the LocalDot revision 2.0 PCB" width="340"></p>
 
 *Front (left) and back (right) of the revision 2.0 board.*
 
