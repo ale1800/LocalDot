@@ -73,17 +73,17 @@
   <rect x="24" y="1322" width="1112" height="39" fill="#dce8f7"/>
   <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1348">33</text><text x="120" y="1348">GND</text><text x="320" y="1348">Ground</text></g>
   <rect x="24" y="1361" width="1112" height="39" fill="#eaf1fa"/>
-  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1387">34</text><text x="120" y="1387">+1.8 V</text><text x="320" y="1387">Digital TLV and I²C supply; I²C pull-ups are on replacement board.</text></g>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1387">34</text><text x="120" y="1387">+1V8</text><text x="320" y="1387">Digital TLV and I²C supply; I²C pull-ups are on replacement board.</text></g>
   <rect x="24" y="1400" width="1112" height="39" fill="#dce8f7"/>
-  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1426">35</text><text x="120" y="1426">+5 V</text><text x="320" y="1426">Supply for LED controller and 12 LEDs.</text></g>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1426">35</text><text x="120" y="1426">+5V</text><text x="320" y="1426">Supply for LED controller and 12 LEDs.</text></g>
   <rect x="24" y="1439" width="1112" height="39" fill="#eaf1fa"/>
-  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1465">36</text><text x="120" y="1465">+5 V</text><text x="320" y="1465">Supply for LED controller and 12 LEDs.</text></g>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1465">36</text><text x="120" y="1465">+5V</text><text x="320" y="1465">Supply for LED controller and 12 LEDs.</text></g>
   <rect x="24" y="1478" width="1112" height="39" fill="#dce8f7"/>
-  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1504">37</text><text x="120" y="1504">+3.3 VA</text><text x="320" y="1504">TLV supply.</text></g>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1504">37</text><text x="120" y="1504">+3V3A</text><text x="320" y="1504">TLV supply.</text></g>
   <rect x="24" y="1517" width="1112" height="39" fill="#eaf1fa"/>
   <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1543">38</text><text x="120" y="1543">—</text><text x="320" y="1543">—</text></g>
   <rect x="24" y="1556" width="1112" height="39" fill="#dce8f7"/>
-  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1582">39</text><text x="120" y="1582">+3.3 VA</text><text x="320" y="1582">TLV supply.</text></g>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1582">39</text><text x="120" y="1582">+3V3A</text><text x="320" y="1582">TLV supply.</text></g>
   <rect x="24" y="1595" width="1112" height="39" fill="#eaf1fa"/>
   <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1621">40</text><text x="120" y="1621">GND</text><text x="320" y="1621">Ground</text></g>
   <rect x="24" y="1634" width="1112" height="39" fill="#dce8f7"/>
