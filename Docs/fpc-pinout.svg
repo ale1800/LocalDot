@@ -29,15 +29,15 @@
   <rect x="24" y="464" width="1112" height="39" fill="#dce8f7"/>
   <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="490">11</text><text x="120" y="490">—</text><text x="320" y="490">—</text></g>
   <rect x="24" y="503" width="1112" height="39" fill="#eaf1fa"/>
-  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="529">12</text><text x="120" y="529">TLV RESET</text><text x="320" y="529">1 kΩ pull-up to 1.8 V on original PCB; drive low to reset.</text></g>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="529">12</text><text x="120" y="529">TLV RESET</text><text x="320" y="529">1 kΩ pull-up to 1V8 on original PCB; drive low to reset.</text></g>
   <rect x="24" y="542" width="1112" height="39" fill="#dce8f7"/>
   <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="568">13</text><text x="120" y="568">—</text><text x="320" y="568">—</text></g>
   <rect x="24" y="581" width="1112" height="39" fill="#eaf1fa"/>
-  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="607">14</text><text x="120" y="607">I²C SCL</text><text x="320" y="607">Clock; pull up to 1.8 V on the replacement board.</text></g>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="607">14</text><text x="120" y="607">I²C SCL</text><text x="320" y="607">Clock; pull up to 1V8 on the replacement board.</text></g>
   <rect x="24" y="620" width="1112" height="39" fill="#dce8f7"/>
   <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="646">15</text><text x="120" y="646">—</text><text x="320" y="646">—</text></g>
   <rect x="24" y="659" width="1112" height="39" fill="#eaf1fa"/>
-  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="685">16</text><text x="120" y="685">I²C SDA</text><text x="320" y="685">Data; pull up to 1.8 V on the replacement board.</text></g>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="685">16</text><text x="120" y="685">I²C SDA</text><text x="320" y="685">Data; pull up to 1V8 on the replacement board.</text></g>
   <rect x="24" y="698" width="1112" height="39" fill="#dce8f7"/>
   <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="724">17</text><text x="120" y="724">—</text><text x="320" y="724">—</text></g>
   <rect x="24" y="737" width="1112" height="39" fill="#eaf1fa"/>
@@ -61,11 +61,11 @@
   <rect x="24" y="1088" width="1112" height="39" fill="#dce8f7"/>
   <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1114">27</text><text x="120" y="1114">—</text><text x="320" y="1114">—</text></g>
   <rect x="24" y="1127" width="1112" height="39" fill="#eaf1fa"/>
-  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1153">28</text><text x="120" y="1153">Button signal</text><text x="320" y="1153">Original 1 kΩ series resistor; pull up to 1.8 V on replacement board.</text></g>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1153">28</text><text x="120" y="1153">Button signal</text><text x="320" y="1153">Original 1 kΩ series resistor; pull up to 1V8 on replacement board.</text></g>
   <rect x="24" y="1166" width="1112" height="39" fill="#dce8f7"/>
-  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1192">29</text><text x="120" y="1192">Button signal</text><text x="320" y="1192">Original 1 kΩ series resistor; pull up to 1.8 V on replacement board.</text></g>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1192">29</text><text x="120" y="1192">Button signal</text><text x="320" y="1192">Original 1 kΩ series resistor; pull up to 1V8 on replacement board.</text></g>
   <rect x="24" y="1205" width="1112" height="39" fill="#eaf1fa"/>
-  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1231">30</text><text x="120" y="1231">Button signal</text><text x="320" y="1231">Original 1 kΩ series resistor; pull up to 1.8 V on replacement board.</text></g>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1231">30</text><text x="120" y="1231">Button signal</text><text x="320" y="1231">Original 1 kΩ series resistor; pull up to 1V8 on replacement board.</text></g>
   <rect x="24" y="1244" width="1112" height="39" fill="#dce8f7"/>
   <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1270">31</text><text x="120" y="1270">—</text><text x="320" y="1270">—</text></g>
   <rect x="24" y="1283" width="1112" height="39" fill="#eaf1fa"/>
