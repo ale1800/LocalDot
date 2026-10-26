@@ -79,11 +79,11 @@
   <rect x="24" y="1439" width="1112" height="39" fill="#eaf1fa"/>
   <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1465">36</text><text x="120" y="1465">+5V</text><text x="320" y="1465">Supply for LED controller and 12 LEDs.</text></g>
   <rect x="24" y="1478" width="1112" height="39" fill="#dce8f7"/>
-  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1504">37</text><text x="120" y="1504">+3V3A</text><text x="320" y="1504">TLV supply.</text></g>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1504">37</text><text x="120" y="1504">+3V3A</text><text x="320" y="1504">Analog TLV supply.</text></g>
   <rect x="24" y="1517" width="1112" height="39" fill="#eaf1fa"/>
   <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1543">38</text><text x="120" y="1543">—</text><text x="320" y="1543">—</text></g>
   <rect x="24" y="1556" width="1112" height="39" fill="#dce8f7"/>
-  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1582">39</text><text x="120" y="1582">+3V3A</text><text x="320" y="1582">TLV supply.</text></g>
+  <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1582">39</text><text x="120" y="1582">+3V3A</text><text x="320" y="1582">Analog TLV supply.</text></g>
   <rect x="24" y="1595" width="1112" height="39" fill="#eaf1fa"/>
   <g fill="#263b58" font-family="Arial, Helvetica, sans-serif" font-size="16"><text x="48" y="1621">40</text><text x="120" y="1621">GND</text><text x="320" y="1621">Ground</text></g>
   <rect x="24" y="1634" width="1112" height="39" fill="#dce8f7"/>
