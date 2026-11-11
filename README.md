@@ -32,7 +32,7 @@ The revision 2.0 prototype is shown above. Hardware and firmware are still being
 
 ## Follow the project
 
-- [Crowd Supply pre-launch page](https://www.crowdsupply.com/aaelectronics/localdot)
+- [Crowd Supply](https://www.crowdsupply.com/aaelectronics/localdot)
 - [Home Assistant Community discussion](https://community.home-assistant.io/t/re-using-an-echo-dot-3rd-gen-with-voice-assistant/1020256/17)
 
 ## FPC connector pinout
