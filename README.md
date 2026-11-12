@@ -17,20 +17,34 @@ An Echo Dot with working hardware can have a second life as a local voice assist
 - ESP32-S3 for connectivity and device control
 - Integration with Home Assistant for local voice-assistant features
 
+
+
+
 ## Revision 2.0 photos
 
 <p align="center"><img src="Images/v2-front.jpg" alt="Front of the LocalDot revision 2.0 PCB" width="340"> <img src="Images/v2-back.jpg" alt="Back of the LocalDot revision 2.0 PCB" width="340"></p>
 
 *Front (left) and back (right) of the revision 2.0 board.*
 
-## Project status and files
-
-The revision 2.0 prototype is shown above. Hardware and firmware are still being developed, and more design files and setup instructions will be published here as they are ready.
+  The revision 2.0 prototype is shown above. Hardware and firmware are still being developed, and more design files and setup instructions will be published here as they are ready.
 
 - [LocalDot revision 2.0 schematic (PDF)](Docs/localdot-v2-schematic.pdf)
 - [FPC connector pinout spreadsheet (Excel)](Docs/fpc_connector_pinout.xlsx)
 
-## Follow the project
+### Actual compatibility with different revisions of the Echo Dot 3rd 
+  
+| HW Revision | Status | Done |
+|---|---|---|
+| Donut | Compatible  | ✅ |
+| Crumpet | Compatible  | ✅ |
+| Clock version | Testing | 🟨 |
+
+## Stay updated with the latest news!
+- [The Campaign is now live!](https://www.crowdsupply.com/aaelectronics/localdot/updates/our-campaign-is-now-live)
+- [Answering some common questions about LocalDot](https://www.crowdsupply.com/aaelectronics/localdot/updates/answering-some-common-questions)
+
+
+## Follow the project 
 
 - [Crowd Supply](https://www.crowdsupply.com/aaelectronics/localdot)
 - [Home Assistant Community discussion](https://community.home-assistant.io/t/re-using-an-echo-dot-3rd-gen-with-voice-assistant/1020256/17)
