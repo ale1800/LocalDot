@@ -27,9 +27,18 @@ An Echo Dot with working hardware can have a second life as a local voice assist
 *Front (left) and back (right) of the revision 2.0 board.*
 
   The revision 2.0 prototype is shown above. Hardware and firmware are still being developed, and more design files and setup instructions will be published here as they are ready.
+  
 
-- [LocalDot revision 2.0 schematic (PDF)](Docs/localdot-v2-schematic.pdf)
-- [FPC connector pinout spreadsheet (Excel)](Docs/fpc_connector_pinout.xlsx)
+  ### Development status tracking table
+
+  | HW Revision | V2.0 | V2.1 |
+|---|---|---|
+| Schematic | ✅ (uploaded)  | ❌ (not uploaded)|
+| Kicad project | ✅ (uploaded)  | ❌ (not uploaded)|
+| Gerber + BOM | ✅ (not uploaded) | ❌ (not uploaded)|
+| 40-pin FPC pinout | ✅ (uploaded) | ✅ (uploaded)|
+| 8-pin clock FPC pinout | ❌ (not uploaded) | ✅ (not uploaded)|
+
 
 ### Actual compatibility with different revisions of the Echo Dot 3rd 
   
@@ -37,7 +46,7 @@ An Echo Dot with working hardware can have a second life as a local voice assist
 |---|---|---|
 | Donut | Compatible  | ✅ |
 | Crumpet | Compatible  | ✅ |
-| Clock version | Testing | 🟨 |
+| Clock version | Working as standard Dot. Clock not tested | 🟨 |
 
 ## Stay updated with the latest news!
 - [The Campaign is now live!](https://www.crowdsupply.com/aaelectronics/localdot/updates/our-campaign-is-now-live)
