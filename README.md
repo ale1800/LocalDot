@@ -29,7 +29,7 @@ An Echo Dot with working hardware can have a second life as a local voice assist
   The revision 2.0 prototype is shown above. Hardware and firmware are still being developed, and more design files and setup instructions will be published here as they are ready.
   
 
-  ### Development status tracking table
+  ### Development status tracking table 
 
   | HW Revision | V2.0 | V2.1 |
 |---|---|---|
