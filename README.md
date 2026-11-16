@@ -9,7 +9,13 @@ LocalDot is an open-source replacement board for the 3rd-generation Echo Dot. It
 ## Check it out on Youtube!
 
 
-[![Watch the video](https://img.youtube.com/vi/PuyzCvFe7hs/hqdefault.jpg)](https://youtu.be/PuyzCvFe7hs)
+
+
+<p align="center">
+  <a href="https://youtu.be/PuyzCvFe7hs">
+    <img src="https://img.youtube.com/vi/PuyzCvFe7hs/hqdefault.jpg" alt="Watch the video">
+  </a>
+</p>
 
 
 
